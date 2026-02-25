@@ -1,0 +1,1 @@
+This repository is a study guide for learning JavaScript. It contains explanations, examples, and exercises covering core concepts such as variables, data types, functions, control flow, arrays, objects, DOM manipulation, and asynchronous programming. The repo is designed for hands-on practice and step-by-step learning.
